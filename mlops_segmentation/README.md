@@ -1,1 +1,0 @@
-# mlops-scene-segmentation-pipeline
